@@ -7,4 +7,5 @@ Our project was to build a map of high bay (autonomous vehicle garage/warehouse)
 See readme.txt for reproduceability/further details. 
 
 Sample output video: https://youtu.be/wAaa1Idl7E0
+
 Ros bag of data: https://drive.google.com/file/d/1e3sr2bfhxzRAzBzy7HSYxU5_kU3xpF0Q/view?usp=sharing
